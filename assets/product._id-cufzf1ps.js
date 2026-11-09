@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e(),n=()=>(0,t.jsx)(`p`,{className:`p-6`,children:`Pièce introuvable.`});export{n as notFoundComponent};

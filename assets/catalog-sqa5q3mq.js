@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e(),n=()=>(0,t.jsx)(`p`,{role:`alert`,className:`p-6`,children:`Catalogue indisponible. Réessayez plus tard.`});export{n as errorComponent};

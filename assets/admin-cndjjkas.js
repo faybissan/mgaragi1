@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e(),n=()=>(0,t.jsx)(`p`,{role:`alert`,className:`p-6`,children:`Administration indisponible · تعذر تحميل الإدارة`});export{n as errorComponent};

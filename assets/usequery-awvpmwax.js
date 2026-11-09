@@ -1,0 +1,1 @@
+import{S as e,y as t}from"./createLucideIcon-C8mCTkRR.js";function n(n,r){return t(n,e,r)}export{n as t};
